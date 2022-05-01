@@ -1,4 +1,4 @@
-# 🐋 Machine Learning Project: Unit Sales Predictor 🐋
+# 🐋 Machine Learning Project: Sales Predictor 🐋
 ## This repository Medical Insurance Price Predictor project based upon Machine Learning. <br>
 ### Project Details <br>
 * Machine Learning Algorithm : <b>Linear Regression</b><br>
